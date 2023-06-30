@@ -1,9 +1,5 @@
 ## Hey 👋, I'm Ruchi Dhamecha!  
   
-
-<a href="https://dev.to/rishavanand" target="_blank">
-<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
-</a>
 <a href="https://github.com/RuchiDhamecha" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -18,8 +14,8 @@
 
 
 ### Glad to see you here!  
-I'm Second year Computer Engineering student. 
-Proficient in C,C++,HTML,CSS,JS.   
+I'm Third year Computer Engineering student. 
+Proficient in C,C++ & JavaScript also in Front-end Developement.  
   
 
 <br/>  
@@ -31,10 +27,10 @@ Proficient in C,C++,HTML,CSS,JS.
 - 🔭  
   
 
-- 🌱 I’m currently learning Java  
+- 🌱 I’m currently learning ReactJS 
   
 
-- ❓ Ask me about anything related to C language  
+- ❓ Ask me about anything related to C++ language  
   
 
 - ⚡ Fun fact: I keep night shift swithed on at all times   
