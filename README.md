@@ -14,8 +14,8 @@
 
 
 ### Glad to see you here!  
-I'm Third year Computer Engineering student. 
-Proficient in C,C++ & JavaScript also in Front-end Developement.  
+I'm Third year Computer Engineering student, highly passinate about Web Developement. 
+I have proficiency in C,C++ & JavaScript.  
   
 
 <br/>  
