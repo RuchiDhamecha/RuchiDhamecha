@@ -9,36 +9,40 @@
 <a href="https://linkedin.com/in/ruchi-dhamecha" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
-  
-
 
 
 ### Glad to see you here!  
-I'm Final year Computer Engineering student, highly passinate about Web Developement. 
-I have proficiency in C,C++ & JavaScript.  
-  
-
-<br/>  
+ 
+I'm Final year Computer Engineering student, 👩🏻‍💻
+<br>Full Stack Developer Works on MERN stack.🌟
+<br>Computer science enthusiast........
+<br/>  Loves to explore new technologies.💥⚙
+<br/> Loves problem solving and Practicing DSA Problems in C++ 💻
+<br> I have proficiency in C,C++ & JavaScript.👩🏻‍💻  
 
 
 ## Rapidfire  
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="top" width="60%" >
+
+- 🔭 I’m currently working on ReactJs AND NodeJs...  
+
+  
+- 🌱 I’m learning FullStack with integrating NodeJs, Express and React... 👩🏻‍💻 
+
+  
+- 🎗 I’m Practicing Data Structures and Algorithms ...  
 
  
+- ❓ Ask me about JavaScript and C++ , NodeJs Development , MERN Stack !!!✨
   
 
-- 🌱 I’m currently learning ReactJS 
-  
+- ⚡ Fun fact: I keep night shift swithed on at all times. 😁   
 
-- ❓ Ask me about anything related to C++ language  
-  
+</td><td valign="top" width="40%">
 
-- ⚡ Fun fact: I keep night shift swithed on at all times   
-
-
-</td><td valign="top" width="50%">
-
- 
+<div align="center">
+<img autoplay="true" src="https://images.squarespace-cdn.com/content/v1/5515ce85e4b0ac8577a8b5ed/1590790768257-FU8CSKGCCWPZI1ZS9HJX/hello.gif?format=1500w" align="center" style="width: 100%" />
+</div>  
 
 
 </td></tr></table>  
