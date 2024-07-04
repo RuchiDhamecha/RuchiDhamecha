@@ -18,7 +18,7 @@ I'm Final year Computer Engineering student, 👩🏻‍💻
 <br>Computer science enthusiast........
 <br/>  Loves to explore new technologies.💥⚙
 <br/> Loves problem solving and Practicing DSA Problems in C++ 💻
-<br> I have proficiency in C,C++ & JavaScript.👩🏻‍💻  
+<br> I have proficiency in React & TypeScript.👩🏻‍💻  
 
 
 ## Rapidfire  
