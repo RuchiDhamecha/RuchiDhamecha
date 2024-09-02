@@ -49,7 +49,7 @@ I'm a Software Engineer 👩🏻‍💻
 ## Languages and Tools  
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,typescript,nodejs,express,mongodb,mysql,postgres,react,tailwind,bootstrap,figma,canva,postman,npm,yarn,git,vscode,materialui,md,github,gitlab" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,typescript,nodejs,express,mongodb,mysql,postgres,react,tailwind,bootstrap,figma,canva,postman,npm,vite,webpack,yarn,git,vscode,materialui,md,github,gitlab" />
   </a>
 </p>
 
